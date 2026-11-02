@@ -1,0 +1,3 @@
+interface:
+  display_name: "Next.js / Vercel Speed"
+  short_description: "Find and fix cold starts on Vercel"
